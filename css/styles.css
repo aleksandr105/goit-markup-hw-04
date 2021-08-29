@@ -125,6 +125,8 @@ img {
   color: #ffffff;
 }
 .hero {
+  margin: 0 auto;
+  max-width: 1600px;
   background-color: #2f303a;
   text-align: center;
   height: 600px;
